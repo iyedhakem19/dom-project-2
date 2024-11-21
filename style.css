@@ -1,0 +1,36 @@
+/* Basic Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+#color-box {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    background-color: #ccc;
+    border: 2px solid #000;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+#change-color-btn:hover{
+    background-color: #4CAF50;
+}
